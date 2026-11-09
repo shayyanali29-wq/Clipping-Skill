@@ -1,0 +1,17 @@
+{
+  "platform": "youtube_shorts",
+  "resolution": [1080, 1920],
+  "target_seconds": [30, 90],
+  "hard_range_seconds": [20, 120],
+  "language": "en",
+  "whisper_model": "auto",
+  "font": "Arial Black",
+  "fontsize": 84,
+  "max_height": 1080,
+  "crf": 18,
+  "preset": "veryfast",
+  "layout": "auto",
+  "zoom": true,
+  "sfx": true,
+  "sfx_volume": 0.30
+}
